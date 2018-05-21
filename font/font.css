@@ -1,0 +1,10 @@
+@font-face {
+  font-family: 'AnoBold Regular';
+  src: url('AnoBold-Regular.eot');
+  src: url('AnoBold-Regular.woff') format('woff'),
+       url('AnoBold-Regular.ttf') format('truetype'),
+       url('AnoBold-Regular.otf') format('opentype');
+  font-weight: normal;
+  font-style: normal;
+}
+
